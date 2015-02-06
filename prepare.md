@@ -1,4 +1,4 @@
-##安全軟體##
+##安裝軟體##
 
 許多Docker入門教程會建議Windows或Mac用戶安裝[bootdocker](http://boot2docker.io/ "Title")。但基於以下理由，不採用這種方案:
 
